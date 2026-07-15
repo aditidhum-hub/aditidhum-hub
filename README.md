@@ -65,3 +65,15 @@
 ---
 
 ⭐ Thanks for visiting my profile!
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aditidhum-hub&show_icons=true&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![](https://streak-stats.demolab.com?user=aditidhum-hub&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditidhum-hub&layout=compact&theme=tokyonight)
+
