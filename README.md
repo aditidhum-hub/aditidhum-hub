@@ -23,8 +23,11 @@
 - Java
 - C++
 - C
-- PHP
+- Html
+- CSS
 - SQL
+- Javascript
+- Mongodb
 
 **Libraries & Frameworks**
 
@@ -57,7 +60,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/aditi-dhum-a167572ab
 
 ---
 
