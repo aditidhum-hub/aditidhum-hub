@@ -89,15 +89,13 @@ I'm especially interested in building AI systems that combine **LLMs + RAG + Age
 
 ## 🚀 Featured Projects
 
-| Project                    | Description                                                         | Tech                                   |
-| -------------------------- | ------------------------------------------------------------------- | -------------------------------------- |
-| 📄 **AskMyPDF**            | Ask questions and get answers from your own PDF documents           | Python • RAG • FAISS • Hugging Face    |
-| ✅ **TaskMate**             | Task management application for organizing and managing daily tasks | JavaScript • React • Node.js • MongoDB |
-| 🧮 **Modern Calculator**   | Desktop calculator application                                      | Python • Tkinter                       |
-| 🤖 **AI Research Copilot** | AI assistant for research workflows                                 | LLM • RAG • Agentic AI                 |
+| Project | Description | Tech |
+|---|---|---|
+| 📄 **AskMyPdf** | AI-powered PDF question answering using RAG, Hugging Face embeddings, FAISS, and an LLM | JavaScript • RAG • FAISS • Hugging Face |
+| 💊 **GenericMD** | Web-based platform for browsing and purchasing affordable generic medicines with product search and categories | TypeScript • Web Development |
+| 🤖 **TaskMate** 🚧 | AI-powered task management assistant built with Agentic AI to help users organize and manage tasks | TypeScript • React • FastAPI • Firebase • Firestore • Agentic AI |
 
-
-> 🚧 More AI/ML projects are currently being built.
+> 🚧 **TaskMate is currently in development. More AI/ML projects are being built.**
 
 ---
 
