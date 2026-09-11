@@ -6,15 +6,6 @@
   Computer Engineering Student • AI/ML Enthusiast • Future AI Engineer
 </h3>
 
-<p align="center">
-  <a href="https://github.com/aditidhum-hub">
-    <img src="https://komarev.com/ghpvc/?username=aditidhum-hub&label=Profile%20Views&color=4F8EF7&style=flat" />
-  </a>
-  <a href="https://github.com/aditidhum-hub?tab=followers">
-    <img src="https://img.shields.io/github/followers/aditidhum-hub?label=Followers&style=flat&color=4F8EF7" />
-  </a>
-</p>
-
 ---
 
 ## 👋 About Me
