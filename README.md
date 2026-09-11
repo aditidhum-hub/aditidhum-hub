@@ -96,7 +96,6 @@ I'm especially interested in building AI systems that combine **LLMs + RAG + Age
 | 🧮 **Modern Calculator**   | Desktop calculator application                                      | Python • Tkinter                       |
 | 🤖 **AI Research Copilot** | AI assistant for research workflows                                 | LLM • RAG • Agentic AI                 |
 
-             |
 
 > 🚧 More AI/ML projects are currently being built.
 
