@@ -86,7 +86,7 @@ I'm especially interested in building AI systems that combine **LLMs + RAG + Age
 | 💊 **GenericMD** | Web-based platform for browsing and purchasing affordable generic medicines with product search and categories | TypeScript • Web Development |
 | 🤖 **TaskMate** 🚧 | AI-powered task management assistant built with Agentic AI to help users organize and manage tasks | TypeScript • React • FastAPI • Firebase • Firestore • Agentic AI |
 
-> 🚧 **TaskMate is currently in development. More AI/ML projects are being built.**
+> 🚧 **TaskMate is currently in Testing Phase. More AI/ML projects are being built.**
 
 ---
 
