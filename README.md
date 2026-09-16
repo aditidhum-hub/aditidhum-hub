@@ -91,16 +91,6 @@ I'm especially interested in building AI systems that combine **LLMs + RAG + Age
 > 🧪 **AI-Frontend-Lab is an ongoing experimental project for exploring modern frontend, animation, AI interfaces, and UI/UX ideas.**
 > 🚀 **More AI/ML and Data Science projects are being built.**
 
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditidhum-hub&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditidhum-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
 ---
 
 ## 🔥 GitHub Streak
