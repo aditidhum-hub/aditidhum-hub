@@ -80,13 +80,17 @@ I'm especially interested in building AI systems that combine **LLMs + RAG + Age
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 📄 **AskMyPdf** | AI-powered PDF question answering using RAG, Hugging Face embeddings, FAISS, and an LLM | JavaScript • RAG • FAISS • Hugging Face |
-| 💊 **GenericMD** | Web-based platform for browsing and purchasing affordable generic medicines with product search and categories | TypeScript • Web Development |
-| 🤖 **TaskMate** 🚧 | AI-powered task management assistant built with Agentic AI to help users organize and manage tasks | TypeScript • React • FastAPI • Firebase • Firestore • Agentic AI |
+| Project                   | Description                                                                                                                | Tech                                                             |
+| ------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 📄 **AskMyPdf**           | AI-powered PDF question answering using RAG, Hugging Face embeddings, FAISS, and an LLM                                    | JavaScript • RAG • FAISS • Hugging Face                          |
+| 💊 **GenericMD**          | Web-based platform for browsing and purchasing affordable generic medicines with product search and categories             | TypeScript • React • Node.js • MongoDB                           |
+| 🤖 **TaskMate** 🚧        | AI-powered task management assistant built with Agentic AI to help users organize and manage tasks                         | TypeScript • React • FastAPI • Firebase • Firestore • Agentic AI |
+| 🎨 **AI-Frontend-Lab** 🧪 | Experimental frontend lab for building modern, animated, AI-powered web interfaces and exploring innovative UI/UX concepts | React • TypeScript • Tailwind CSS • AI • UI/UX                   |
 
-> 🚧 **TaskMate is currently in Testing Phase. More AI/ML projects are being built.**
+> 🚧 **TaskMate is currently in the Testing Phase.**
+> 🧪 **AI-Frontend-Lab is an ongoing experimental project for exploring modern frontend, animation, AI interfaces, and UI/UX ideas.**
+> 🚀 **More AI/ML and Data Science projects are being built.**
+
 
 ---
 
