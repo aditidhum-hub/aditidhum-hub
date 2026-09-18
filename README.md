@@ -80,16 +80,17 @@ I'm especially interested in building AI systems that combine **LLMs + RAG + Age
 
 ## 🚀 Featured Projects
 
-| Project                   | Description                                                                                                                | Tech                                                             |
-| ------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| 📄 **AskMyPdf**           | AI-powered PDF question answering using RAG, Hugging Face embeddings, FAISS, and an LLM                                    | JavaScript • RAG • FAISS • Hugging Face                          |
-| 💊 **GenericMD**          | Web-based platform for browsing and purchasing affordable generic medicines with product search and categories             | TypeScript • React • Node.js • MongoDB                           |
-| 🤖 **TaskMate** 🚧        | AI-powered task management assistant built with Agentic AI to help users organize and manage tasks                         | TypeScript • React • FastAPI • Firebase • Firestore • Agentic AI |
-| 🎨 **AI-Frontend-Lab** 🧪 | Experimental frontend lab for building modern, animated, AI-powered web interfaces and exploring innovative UI/UX concepts | React • TypeScript • Tailwind CSS • AI • UI/UX                   |
+| Project                    | Description                                                                                                                                          | Tech                                                             |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| 📄 **AskMyPdf**            | AI-powered PDF question answering using RAG, Hugging Face embeddings, FAISS, and an LLM                                                              | JavaScript • RAG • FAISS • Hugging Face                          |
+| 💊 **GenericMD**           | Web-based platform for browsing and purchasing affordable generic medicines with product search and categories                                       | TypeScript • React • Node.js • MongoDB                           |
+| 🤖 **TaskMate** 🚧         | AI-powered task management assistant built with Agentic AI to help users organize and manage tasks                                                   | TypeScript • React • FastAPI • Firebase • Firestore • Agentic AI |
+| 🎨 **AI-Frontend-Lab** 🧪  | Daily experimentation lab for small AI, frontend, API, JavaScript, and UI experiments, allowing ideas and useful code to be built and tested quickly | React • TypeScript • JavaScript • Tailwind CSS • AI • APIs       |
+| 🛡️ **AI-Security-Lab** 🧪 | Hands-on AI security lab exploring chatbot security, API integration, hallucination testing, response evaluation, and input/output guardrails        | Python • FastAPI • Gemini • AI Evaluation • Guardrails           |
 
 > 🚧 **TaskMate is currently in the Testing Phase.**
-> 🧪 **AI-Frontend-Lab is an ongoing experimental project for exploring modern frontend, animation, AI interfaces, and UI/UX ideas.**
-> 🚀 **More AI/ML and Data Science projects are being built.**
+> 🧪 **AI-Frontend-Lab is an ongoing experimental lab for building small features, testing ideas, practicing new technologies, and experimenting with AI and frontend development.**
+> 🛡️ **AI-Security-Lab is an ongoing learning project focused on building and testing secure AI applications.**
 
 ---
 
