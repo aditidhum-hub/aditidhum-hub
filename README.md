@@ -318,5 +318,4 @@ flowchart LR
 
 <p align="center">
   ⭐ Thanks for visiting my profile!<br>
-  <a href="#">⬆️ Back to top</a>
 </p>
