@@ -7,19 +7,48 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aditidhum-hub&label=Profile+Views&color=4F8EF7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/aditidhum-hub?label=Followers&style=for-the-badge&logo=github&color=181717" />
-  <img src="https://img.shields.io/github/stars/aditidhum-hub?label=Total+Stars&style=for-the-badge&logo=github&color=F7B93E" />
+  <a href="#-about-me"><b>👋 About</b></a> &nbsp;•&nbsp;
+  <a href="#-tech-stack"><b>🧰 Tech</b></a> &nbsp;•&nbsp;
+  <a href="#-my-learning-path"><b>🧠 Learning</b></a> &nbsp;•&nbsp;
+  <a href="#-featured-projects"><b>🚀 Projects</b></a> &nbsp;•&nbsp;
+  <a href="#-connect-with-me"><b>🌐 Connect</b></a>
 </p>
 
-<!-- Quick navigation: these are anchor links, so they jump to each section -->
-<p align="center">
-  <a href="#-about-me"><b>About</b></a> •
-  <a href="#-tech-stack"><b>Tech Stack</b></a> •
-  <a href="#-featured-projects"><b>Projects</b></a> •
-  <a href="#-github-stats"><b>Stats</b></a> •
-  <a href="#-connect-with-me"><b>Connect</b></a>
-</p>
+---
+
+## 🧭 Pick Your Path
+
+Not sure where to look? Choose what fits you and expand it.
+
+<details>
+<summary><b>👀 I'm a recruiter / hiring manager</b></summary>
+<br>
+
+* 🚀 Start with **[AskMyPdf](#-featured-projects)** (RAG + FAISS) and **TaskMate** (agentic AI)
+* 🧰 Check the **[Tech Stack](#-tech-stack)** for the languages and tools I use
+* 🌐 Reach me on **[LinkedIn](https://www.linkedin.com/in/aditi-dhum-a167572ab)**
+
+</details>
+
+<details>
+<summary><b>🤝 I want to collaborate</b></summary>
+<br>
+
+* 🧪 **AI-Frontend-Lab** and **AI-Security-Lab** are open experiment spaces
+* 💬 Good topics to talk about: RAG apps, agentic AI, AI security and guardrails, full-stack with React + FastAPI
+* 🌐 Message me on **[LinkedIn](https://www.linkedin.com/in/aditi-dhum-a167572ab)**
+
+</details>
+
+<details>
+<summary><b>📚 I'm learning AI too</b></summary>
+<br>
+
+* 🧠 See **[My Learning Path](#-my-learning-path)** below for the order I'm following
+* 🧪 The lab repos are full of small experiments you can read and reuse
+* ⭐ Follow along on **[GitHub](https://github.com/aditidhum-hub)**
+
+</details>
 
 ---
 
@@ -30,7 +59,7 @@
 I enjoy turning ideas into practical applications and continuously improving my skills by building projects.
 
 <details>
-<summary><b>🔎 Click to see what I'm into</b></summary>
+<summary><b>🔎 What I'm into</b></summary>
 <br>
 
 * 🤖 Exploring **AI, Machine Learning & Generative AI**
@@ -49,9 +78,9 @@ I enjoy turning ideas into practical applications and continuously improving my 
 
 | Status | Project |
 | :----: | ------- |
-| 🚧 In testing | **TaskMate**, an agentic AI task assistant |
-| 🧪 Ongoing | **AI-Frontend-Lab**, daily small experiments |
-| 🧪 Ongoing | **AI-Security-Lab**, guardrails & evaluation |
+| 🚧 In testing | **TaskMate**: agentic AI task assistant |
+| 🧪 Ongoing | **AI-Frontend-Lab**: daily small experiments |
+| 🧪 Ongoing | **AI-Security-Lab**: guardrails & evaluation |
 
 </details>
 
@@ -103,162 +132,189 @@ I enjoy turning ideas into practical applications and continuously improving my 
 
 ---
 
-## 🧠 Currently Exploring
+## 🧠 My Learning Path
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-LLMs & Generative AI
-        ↓
-RAG Systems
-        ↓
-Agentic AI
-        ↓
-AI-Powered Applications
+This diagram is drawn by GitHub itself, so there are no images to break.
+
+```mermaid
+flowchart LR
+    A[Artificial Intelligence] --> B[Machine Learning]
+    B --> C[Deep Learning]
+    C --> D[LLMs & Generative AI]
+    D --> E[RAG Systems]
+    E --> F[Agentic AI]
+    F --> G[AI-Powered Applications]
+
+    style A fill:#4F8EF7,color:#fff,stroke:none
+    style B fill:#4F8EF7,color:#fff,stroke:none
+    style C fill:#4F8EF7,color:#fff,stroke:none
+    style D fill:#7C5CFA,color:#fff,stroke:none
+    style E fill:#7C5CFA,color:#fff,stroke:none
+    style F fill:#7C5CFA,color:#fff,stroke:none
+    style G fill:#22C55E,color:#fff,stroke:none
 ```
 
 I'm especially interested in building AI systems that combine **LLMs + RAG + Agents + traditional ML**.
+
+<details>
+<summary><b>✅ Progress checklist</b></summary>
+<br>
+
+Edit these boxes as you go. Change `[ ]` to `[x]` when done.
+
+- [x] Python
+- [x] Machine Learning basics
+- [ ] Deep Learning
+- [ ] LLMs & Generative AI
+- [ ] RAG Systems
+- [ ] Agentic AI
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-> 👆 Click a card to open the repo. Expand **Details** below each one for the tech and the idea behind it.
+Click a badge to open the repo, then expand a project to see how it works.
 
-<!-- NOTE: check that each repo name below matches your real repo name exactly -->
-<p align="center">
-  <a href="https://github.com/aditidhum-hub/AskMyPdf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditidhum-hub&repo=AskMyPdf&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/aditidhum-hub/GenericMD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditidhum-hub&repo=GenericMD&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aditidhum-hub/TaskMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditidhum-hub&repo=TaskMate&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/aditidhum-hub/AI-Frontend-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditidhum-hub&repo=AI-Frontend-Lab&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/aditidhum-hub/AI-Security-Lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aditidhum-hub&repo=AI-Security-Lab&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<!-- NOTE: make sure each repo name in the links below matches your real repo name exactly -->
+
+| Project | What it does | Status | Link |
+| ------- | ------------ | :----: | :--: |
+| 📄 **AskMyPdf** | Ask questions about your PDFs using RAG | ✅ Done | [![Repo](https://img.shields.io/badge/Open-Repo-4F8EF7?style=flat-square&logo=github)](https://github.com/aditidhum-hub/AskMyPdf) |
+| 💊 **GenericMD** | Browse and buy affordable generic medicines | ✅ Done | [![Repo](https://img.shields.io/badge/Open-Repo-4F8EF7?style=flat-square&logo=github)](https://github.com/aditidhum-hub/GenericMD) |
+| 🤖 **TaskMate** | Agentic AI task management assistant | 🚧 Testing | [![Repo](https://img.shields.io/badge/Open-Repo-4F8EF7?style=flat-square&logo=github)](https://github.com/aditidhum-hub/TaskMate) |
+| 🎨 **AI-Frontend-Lab** | Daily AI + frontend experiments | 🧪 Ongoing | [![Repo](https://img.shields.io/badge/Open-Repo-4F8EF7?style=flat-square&logo=github)](https://github.com/aditidhum-hub/AI-Frontend-Lab) |
+| 🛡️ **AI-Security-Lab** | Chatbot security & guardrails | 🧪 Ongoing | [![Repo](https://img.shields.io/badge/Open-Repo-4F8EF7?style=flat-square&logo=github)](https://github.com/aditidhum-hub/AI-Security-Lab) |
 
 <details>
-<summary>📄 <b>AskMyPdf</b>: chat with your PDFs</summary>
+<summary>📄 <b>AskMyPdf</b>: how it works</summary>
 <br>
 
 AI-powered PDF question answering using **RAG**, Hugging Face embeddings, **FAISS**, and an LLM.
 
-`JavaScript` `RAG` `FAISS` `Hugging Face`
+```mermaid
+flowchart LR
+    A[📄 PDF] --> B[Split into chunks]
+    B --> C[Hugging Face embeddings]
+    C --> D[(FAISS index)]
+    Q[❓ Your question] --> E[Embed question]
+    E --> D
+    D --> F[Top matching chunks]
+    F --> G[🧠 LLM]
+    G --> H[✅ Answer]
+```
 
-[🔗 View repo](https://github.com/aditidhum-hub/AskMyPdf)
+`JavaScript` `RAG` `FAISS` `Hugging Face`
 
 </details>
 
 <details>
-<summary>💊 <b>GenericMD</b>: affordable generic medicines</summary>
+<summary>💊 <b>GenericMD</b>: how it works</summary>
 <br>
 
 Web-based platform for browsing and purchasing affordable generic medicines, with product search and categories.
 
-`TypeScript` `React` `Node.js` `MongoDB`
+```mermaid
+flowchart LR
+    U[👤 User] --> F[React frontend]
+    F --> A[Node.js API]
+    A --> D[(MongoDB)]
+    D --> A
+    A --> F
+```
 
-[🔗 View repo](https://github.com/aditidhum-hub/GenericMD)
+`TypeScript` `React` `Node.js` `MongoDB`
 
 </details>
 
 <details>
-<summary>🤖 <b>TaskMate</b> 🚧: agentic task manager</summary>
+<summary>🤖 <b>TaskMate</b> 🚧: how it works</summary>
 <br>
 
 AI-powered task management assistant built with **Agentic AI** to help users organize and manage tasks.
+
+```mermaid
+flowchart LR
+    U[👤 User] --> F[React app]
+    F --> B[FastAPI backend]
+    B --> G[🤖 AI agent]
+    G --> T[Task tools]
+    T --> S[(Firestore)]
+    G --> B
+    B --> F
+```
 
 `TypeScript` `React` `FastAPI` `Firebase` `Firestore` `Agentic AI`
 
 🚧 Currently in the **Testing Phase**.
 
-[🔗 View repo](https://github.com/aditidhum-hub/TaskMate)
-
 </details>
 
 <details>
-<summary>🎨 <b>AI-Frontend-Lab</b> 🧪: daily experiments</summary>
+<summary>🎨 <b>AI-Frontend-Lab</b> 🧪: what's inside</summary>
 <br>
 
 Daily experimentation lab for small AI, frontend, API, JavaScript, and UI experiments, so ideas and useful code can be built and tested quickly.
 
 `React` `TypeScript` `JavaScript` `Tailwind CSS` `AI` `APIs`
 
-[🔗 View repo](https://github.com/aditidhum-hub/AI-Frontend-Lab)
-
 </details>
 
 <details>
-<summary>🛡️ <b>AI-Security-Lab</b> 🧪: secure AI apps</summary>
+<summary>🛡️ <b>AI-Security-Lab</b> 🧪: how it works</summary>
 <br>
 
 Hands-on AI security lab exploring chatbot security, API integration, hallucination testing, response evaluation, and input/output guardrails.
 
-`Python` `FastAPI` `Gemini` `AI Evaluation` `Guardrails`
+```mermaid
+flowchart LR
+    U[👤 User input] --> IG{Input guardrail}
+    IG -- blocked --> X[🚫 Rejected]
+    IG -- passed --> M[🧠 Gemini]
+    M --> OG{Output guardrail}
+    OG -- unsafe --> X
+    OG -- safe --> R[✅ Response]
+    R --> E[📊 Evaluation]
+```
 
-[🔗 View repo](https://github.com/aditidhum-hub/AI-Security-Lab)
+`Python` `FastAPI` `Gemini` `AI Evaluation` `Guardrails`
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aditidhum-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aditidhum-hub&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=aditidhum-hub&theme=tokyonight&hide_border=true" />
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aditidhum-hub&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</p>
-
-### 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aditidhum-hub/aditidhum-hub/output/github-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aditidhum-hub&theme=tokyo-night&hide_border=true" />
-</p>
-
 ---
 
-## 💬 Let's Collaborate
+## ❓ Quick Q&A
 
 <details>
-<summary><b>🤝 Things you can ask me about</b></summary>
+<summary><b>What kind of AI systems do you want to build?</b></summary>
 <br>
 
-* Building a **RAG** app with FAISS and Hugging Face embeddings
-* Getting started with **agentic AI** using FastAPI + React
-* Basic **AI security**: guardrails, hallucination testing, evaluation
-* Anything Python, ML, or full-stack
+Systems that combine **LLMs + RAG + Agents + traditional ML** into real applications.
 
-Open an issue or reach out below. I'm always happy to talk about projects. 🙌
+</details>
+
+<details>
+<summary><b>Where should I start if I want to see your work?</b></summary>
+<br>
+
+**AskMyPdf** for RAG, **TaskMate** for agentic AI, and the two labs for smaller experiments.
+
+</details>
+
+<details>
+<summary><b>What's your motto?</b></summary>
+<br>
+
+💡 **Learn • Build • Experiment • Improve**
 
 </details>
 
