@@ -292,34 +292,6 @@ flowchart LR
 
 ---
 
-## ❓ Quick Q&A
-
-<details>
-<summary><b>What kind of AI systems do you want to build?</b></summary>
-<br>
-
-Systems that combine **LLMs + RAG + Agents + traditional ML** into real applications.
-
-</details>
-
-<details>
-<summary><b>Where should I start if I want to see your work?</b></summary>
-<br>
-
-**AskMyPdf** for RAG, **TaskMate** for agentic AI, and the two labs for smaller experiments.
-
-</details>
-
-<details>
-<summary><b>What's your motto?</b></summary>
-<br>
-
-💡 **Learn • Build • Experiment • Improve**
-
-</details>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
